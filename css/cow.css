@@ -1,0 +1,24 @@
+
+#room {
+  border: 1px solid black;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+
+.butt {
+  color: white;
+  font-size: 14px;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 5px;
+  width: 120px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.restart_butt {
+  background-color: green;
+}
